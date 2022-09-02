@@ -1,0 +1,125 @@
+{
+  "navItems.main": "Главная",
+  "navItems.registration": "Регистрация",
+  "navItems.news": "Новости",
+  "navItems.contacts": "Контакты",
+
+  "heroTitle": "EPN –  уникальное приложение для профессиональных риелторов",
+
+  "heroList.add": "добавляйте собственные объекты на своих условиях",
+  "heroList.control": "управляйте комиссией: делитесь или оставляйте все себе",
+  "heroList.get": "получайте уникальные заявки по добавленным объектам",
+  "heroList.hold": "держите прямую связь с коллегами по интересующим объектам",
+  "heroList.keep": "ведите учет клиентов, объектов и полученных заявок",
+  "heroList.seek": "ищите эксклюзивные объекты у коллег по выбранным критериям",
+
+  "heroText": "Зарегистрируйтесь, чтобы получить доступ к приложению",
+
+  "inviteTitle": "Зарегистрируйтесь прямо сейчас",
+  "inviteText": "Зарегистрируйтесь на сайте прямо сейчас, чтобы стать участником профессионального сообщества и получить доступ к приложению",
+
+  "primarySectionLink.registration": "Зарегистрироваться",
+
+  "userMenuLink.login": "Войти",
+
+  "secondarySectionTitles.about": "О приложении",
+  "secondarySectionTitles.clients": "Клиенты",
+  "secondarySectionTitles.objects": "Объекты",
+  "secondarySectionTitles.requests": "Заявки",
+
+  "secondarySectionTitles.about.alt": "О приложении телефон",
+  "secondarySectionTitles.clients.alt": "Клиенты телефон",
+  "secondarySectionTitles.objects.alt": "Объекты телефон",
+  "secondarySectionTitles.requests.alt": "Заявки телефон",
+
+  "phoneBlock.phoneBasic.alt": "Стандартный телефон",
+  "phoneBlock.apartment.alt": "Апартаменты",
+
+  "secondarySectionAbout.1": "Epn – это уникальное приложение разработанное риелторами для профессионального сообщества риелторов.",
+  "secondarySectionAbout.2": "Приложение разделено на три простые группы: Клиенты, Объекты, Заявки.",
+  "secondarySectionAbout.3": "Добавляйте клиентов, добавляйте объекты, получайте заявки и предложения от других участников системы.",
+  "secondarySectionAbout.4": "Выгружайте объявления на популярные порталы в сфере недвижимости в один клик.",
+  "secondarySectionAbout.5": "Автоматический подбор объектов и клиентов всех пользователей системы, удовлетворяющих вашим параметрам.",
+
+  "secondarySectionClients.1": "Добавьте всех ваших клиентов в приложение и привяжите к ним объекты которыми вы занимаетесь.",
+  "secondarySectionClients.2": "Прямые контакты клиентов видны только Вам, другие участники системы видят лишь ваши контакты.",
+  "secondarySectionClients.3": "Добавляйте новых клиентов или переносите клиентов в архив, в случае успешно закрытой сделки, или если ваши отношения с клиентом вам не интересны.",
+
+  "secondarySectionObjects.1": "Добавляйте новые объекты недвижимости своих клиентов.",
+  "secondarySectionObjects.2": "Добавляйте максимально широкую информацию об объектах: категория, фото, расположение, цена, квадратура, параметры, документы.",
+  "secondarySectionObjects.3": "Чем больше информации по объекту вы добавите, тем больше персонализированных и уникальных предложений вы сможете получить.",
+  "secondarySectionObjects.4": "Все подходящие для Вас предложения по объектам отображаются Вам автоматически, максимально удовлятворяя ваш конкретный запрос.",
+  "secondarySectionObjects.5": "Выбирайте выгодные Вам условия комиссии.",
+  "secondarySectionObjects.6": "Выкладывайте объекты на все популярные порталы недвижимости в один клик.",
+
+  "secondarySectionRequests.1": "Добавляйте заявки на поиск определенных объектов по заказу ваших клиентов.",
+  "secondarySectionRequests.2": "Получайте заявки на добавленные Вами объекты от других участников системы.",
+  "secondarySectionRequests.3": "Отправляйте предложения потенциальным соискателям.",
+  "secondarySectionRequests.4": "Принимайте или отклоняйте предложения по сделке о сотрудничестве от других участников системы.",
+
+  "footerData.text": "© 2022. EPN единый портал недвижимости. Все права защищены",
+  "footerData.link": "Политика конфиденциальности",
+  "footerData.logo": "единый портал недвижимости",
+
+  "registrationPageTitle": "Регистрация",
+
+  "breadcrumbs.main": "Главная",
+  "breadcrumbs.registration": "Регистрация",
+  "breadcrumbs.news": "Новости",
+  "breadcrumbs.contacts": "Контакты",
+  "breadcrumbs.cabinet": "Личный кабинет",
+
+  "defaultTabs.agency.title": "Агентство недвижимости",
+  "defaultTabs.agency.subtitle": "Заполните форму ниже, если Вы являетесь владельцом или директором агентства недвижимости",
+  "defaultTabs.realtor-fop.title": "Риелтор ФЛП",
+  "defaultTabs.realtor-fop.subtitle": "Заполните форму ниже, если Вы являетесь риелтором, зарегестрированным как ФЛП",
+  "defaultTabs.realtor.title": "Риелтор",
+  "defaultTabs.realtor.subtitle": "Заполните форму ниже, если Вы являетесь риелтором, который работает в агентстве недвижимости",
+
+  "defaultTabs.cabinetApp.title": "Приложение",
+  "defaultTabs.cabinetPersonal.title": "Личная информация",
+  "defaultTabs.cabinetFinancial.title": "Финансовая информация",
+
+  "formFieldLabel.fullName": "Ф.И.О. владельца или директора агентства недвижимости",
+  "formFieldLabel.fullNameRealtor": "Ф.И.О. риелтера",
+  "formFieldLabel.phone": "Номер телефона",
+  "formFieldLabel.email": "E-mail",
+  "formFieldLabel.agencyName": "Название агентства недвижимости",
+  "formFieldLabel.agencyName.defaultText": "Агентство недвижимости \" \"",
+  "formFieldLabel.companyName": "Выберите агентство, в котором вы работаете",
+  "formFieldLabel.companyCode": "Идентификационный код",
+  "formFieldLabel.personalCode": "Идентификационный код",
+  "formFieldLabel.logo": "Загрузить логотип, 500x500, jpg/jpeg, png, web-p",
+  "formFieldLabel.photo": "Загрузить фото, jpg/jpeg, png, web-p",
+  "formFieldLabel.supportingDocs": "Документы подтверждающие регистрацию",
+  "formFieldLabel.site": "Ссылка на сайт, если есть: \"https://example.com\"",
+
+  "formRegistrationButton": "зарегистрироваться",
+  "formFieldValue.agency.default": "Агентство недвижимости",
+
+  "validationErrorMessage.required": "Это обязательное поле",
+  "validationErrorMessage.wordsDigitsDoubleQoutes": "Начинается с букв, содержит: цифры, пробелы, (`), ('), (\"\") и(-)",
+  "validationErrorMessage.words.length": "Минимум 3 буквы",
+  "validationErrorMessage.phone": "Проверьте правильность ввода: +380112223344",
+  "validationErrorMessage.words": "Tолько буквы, пробелы, а так же символы:(`), ('), (-)",
+  "validationErrorMessage.email": "Проверьте правильность ввода email: example@mail.com",
+  "validationErrorMessage.personalCode": "Поле может содержать только 10 цфр",
+  "validationErrorMessage.companyCode": "Поле может содержать только 8 цифр",
+  "validationErrorMessage.logo": "Высота и ширина не должны превышать 500px",
+
+  "cabinetTitle": "Личный кабинет",
+  "cabinetAppBtn": "Оплатить",
+  "cabinetAppText": "Выберите наиболее подходящий Вам план и оплатите чтобы получить доступ к приложению",
+  "cabinetAppImgData": "QR телефон",
+  "cabinetApp.1month": "Подписка 1 месяц - 2000 грн",
+  "cabinetApp.3month": "Подписка 3 месяца - 5400 грн (скидка -10%)",
+  "cabinetApp.6month": "Подписка 6 месяцев  - 9600 грн (скидка -20%)",
+  "cabinetApp.12month": "Подписка 12 месяцев - 16700 грн (скидка -20%)",
+
+  "autoComplete.noOptionText": "Не найдено",
+
+  "registration.confirm": "Ваши данные успешно отправлены. Для подтверждения регистрации проверьте ваш e-mail",
+
+  "newsTitle": "Новости",
+  "newsTagsListTitle": "Статьи по темам"
+}

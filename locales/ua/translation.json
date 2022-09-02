@@ -1,0 +1,123 @@
+{
+  "navItems.main": "Головна",
+  "navItems.registration": "Реєстрація",
+  "navItems.news": "Новини",
+  "navItems.contacts": "Контакти",
+
+  "heroTitle": "EPN – унікальний додаток для професійних ріелторів",
+
+  "heroList.add": "додайте власні об'єкти на своїх умовах",
+  "heroList.control": "керуйте комісією: ділитеся або залишайте все собі",
+  "heroList.get": "отримуйте унікальні заявки щодо доданих об'єктів",
+  "heroList.hold": "тримайте прямий зв'язок з колегами по об'єктах, що цікавлять",
+  "heroList.keep": "ведіть облік клієнтів, об'єктів та отриманих заявок",
+  "heroList.seek": "шукайте ексклюзивні об'єкти у колег за обраними критеріями",
+
+  "heroText": "Зареєструйтесь, щоб отримати доступ до програми",
+
+  "inviteTitle": "Зареєструйтесь прямо зараз",
+  "inviteText": "Зареєструйтесь на сайті прямо зараз, щоб стати учасником професійної спільноти та отримати доступ до програми",
+
+  "primarySectionLink.registration": "Зареєструватися",
+
+  "userMenuLink.login": "Увійти",
+
+  "secondarySectionTitles.about": "Про програму",
+  "secondarySectionTitles.clients": "Клієнти",
+  "secondarySectionTitles.objects": "Об'єкти",
+  "secondarySectionTitles.requests": "Заявки",
+
+  "secondarySectionTitles.about.alt": "Про програму телефон",
+  "secondarySectionTitles.clients.alt": "Клієнти телефон",
+  "secondarySectionTitles.objects.alt": "Об'єкти телефон",
+  "secondarySectionTitles.requests.alt": "Заявки телефон",
+
+  "phoneBlock.phoneBasic.alt": "Стандартний телефон",
+  "phoneBlock.apartment.alt": "Апартаменти",
+
+  "secondarySectionAbout.1": "Epn – це унікальна програма, розроблена ріелторами для професійної спільноти ріелторів.",
+  "secondarySectionAbout.2": "Додаток поділено на три прості групи: Клієнти, Об'єкти, Заявки.",
+  "secondarySectionAbout.3": "Додайте клієнтів, додавайте об'єкти, отримуйте заявки та пропозиції від інших учасників системи.",
+  "secondarySectionAbout.4": "Вивантажуйте оголошення на популярні портали в сфері нерухомості в один клік.",
+  "secondarySectionAbout.5": "Автоматичний підбір об'єктів та клієнтів усіх користувачів системи, які відповідають вашим параметрам.",
+
+  "secondarySectionClients.1": "Додайте всіх ваших клієнтів у додаток і прив'яжіть до них об'єкти, якими ви займаєтеся.",
+  "secondarySectionClients.2": "Прямі контакти клієнтів видно лише Вам, інші учасники системи бачать лише ваші контакти.",
+  "secondarySectionClients.3": "Додайте нових клієнтів або переносіть клієнтів до архіву, у разі успішно закритої угоди, або якщо ваші відносини з клієнтом вам не цікаві.",
+
+  "secondarySectionObjects.1": "Додайте нові об'єкти нерухомості своїх клієнтів.",
+  "secondarySectionObjects.2": "Додайте максимально широку інформацію про об'єкти: категорія, фото, розташування, ціна, квадратура, параметри, документи.",
+  "secondarySectionObjects.3": "Чим більше інформації по об'єкту ви додасте, тим більше персоналізованих та унікальних пропозицій ви зможете отримати.",
+  "secondarySectionObjects.4": "Всі відповідні для Вас пропозиції щодо об'єктів відображаються Вам автоматично, максимально задовольняючи ваш конкретний запит.",
+  "secondarySectionObjects.5": "Вибирайте вигідні умови комісії.",
+  "secondarySectionObjects.6": "Викладайте об'єкти на всі популярні портали нерухомості в один клік.",
+
+  "secondarySectionRequests.1": "Додайте заявки на пошук певних об'єктів на замовлення ваших клієнтів.",
+  "secondarySectionRequests.2": "Отримуйте заявки на додані Вами об'єкти від інших учасників системи.",
+  "secondarySectionRequests.3": "Надсилайте пропозиції потенційним претендентам.",
+  "secondarySectionRequests.4": "Приймайте або відхиляйте пропозиції щодо угоди про співпрацю від інших учасників системи.",
+
+  "footerData.text": "© 2022. EPN єдиний портал нерухомості. Всі права захищені",
+  "footerData.link": "Політика конфіденційності",
+  "footerData.logo": "єдиний портал нерухомості",
+
+  "registrationPageTitle": "Реєстрація",
+  "breadcrumbs.main": "Гoловна",
+  "breadcrumbs.registration": "Реєстрація",
+  "breadcrumbs.news": "Новини",
+  "breadcrumbs.contacts": "Контакти",
+  "breadcrumbs.cabinet": "Особистий кабінет",
+
+  "defaultTabs.agency.title": "Агенція нерухомості",
+  "defaultTabs.agency.subtitle": "Заповніть форму нижче, якщо Ви є власником або директором агенції нерухомості",
+  "defaultTabs.realtor-fop.title": "Ріелтор ФОП",
+  "defaultTabs.realtor-fop.subtitle": "Заповніть форму нижче, якщо Ви є ріелтором, зареєстрованим як ФОП",
+  "defaultTabs.realtor.title": "Ріелтор",
+  "defaultTabs.realtor.subtitle": "Заповніть форму нижче, якщо Ви є ріелтором, який працює в агенції нерухомості",
+
+  "defaultTabs.cabinetApp.title": "Додаток",
+  "defaultTabs.cabinetPersonal.title": "Особиста інформація",
+  "defaultTabs.cabinetFinancial.title": "Фінансова інформація",
+
+  "formFieldLabel.fullName": "П.І.Б. власника або директора агенції нерухомості",
+  "formFieldLabel.fullNameRealtor": "П.І.Б. ріелтора",
+  "formFieldLabel.phone": "Номер телефону",
+  "formFieldLabel.email": "E-mail",
+  "formFieldLabel.agencyName": "Назва агенції нерухомості",
+  "formFieldLabel.companyName": "Оберіть агенцію, в якій ви працюєте",
+  "formFieldLabel.companyCode": "Ідентифікаційний код",
+  "formFieldLabel.personalCode": "Ідентифікаційний код",
+  "formFieldLabel.logo": "Завантажити логотип, 500x500, jpg/jpeg, png, web-p",
+  "formFieldLabel.photo": "Завантажити фото, jpg/jpeg, png, web-p",
+  "formFieldLabel.supportingDocs": "Документи, що підтверджують реєстрацію",
+  "formFieldLabel.site": "Посилання на сайт, якщо є: \"https://example.com\"",
+
+  "formFieldValue.agency.default": "Агенція нерухомості",
+  "formRegistrationButton": "зареєструватися",
+
+  "validationErrorMessage.required": "Це обов'язкове поле",
+  "validationErrorMessage.words": "Tільки літери, пробіл, а також символи:(`), ('), (-)",
+  "validationErrorMessage.wordsDigitsDoubleQoutes": "Почінається з літер, містить цифри, пробіл, (`), ('), (\"\") і (-)",
+  "validationErrorMessage.words.length": "Мінімум 3 літери",
+  "validationErrorMessage.phone": "Перевірте правильність вводу: +380112223344",
+  "validationErrorMessage.email": "Перевірте правильність вводу email: example@mail.com",
+  "validationErrorMessage.personalCode": "Тільки 10 цифр",
+  "validationErrorMessage.companyCode": "Тільки 8 цифр",
+  "validationErrorMessage.logo": "Висота и ширина зображення максимум 500px",
+
+  "cabinetTitle": "Особистий кабінет",
+  "cabinetAppBtn": "Сплатити",
+  "cabinetAppText": "Виберіть найбільш підходящий Вам план і оплатите щоб отримати доступ до програми",
+  "cabinetAppImgData": "QR телефон",
+  "cabinetApp.1month": "Підписка 1 місяць - 2000 грн",
+  "cabinetApp.3month": "Підписка 3 місяці - 5400 грн (знижка -10%)",
+  "cabinetApp.6month": "Підписка 6 місяців - 9600 грн (знижка -20%)",
+  "cabinetApp.12month": "Підписка 12 місяців - 16700 грн (знижка -20%)",
+
+  "autoComplete.noOptionText": "Не знайдено",
+
+  "registration.confirm": "Ваші дані успішно надіслані. Для підтвердження реєстрації перевірте ваш e-mail",
+
+  "newsTitle": "Новини",
+  "newsTagsListTitle": "Статті за темами"
+}
